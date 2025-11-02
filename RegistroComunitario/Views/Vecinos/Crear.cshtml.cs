@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace RegistroComunitario.Views.Views.Views.Vecinos
+namespace RegistroComunitario.Views.Vecinos
 {
-    public class IndexModel : PageModel
+    public class CrearModel : PageModel
     {
         public void OnGet()
         {
